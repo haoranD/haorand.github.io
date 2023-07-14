@@ -1,9 +1,8 @@
 ---
 layout: about
-title: About me
+title: DHR
 permalink: /
-subtitle: <a href='#'>AI Scientist, Product Manager, Adventurer</a>
-subtitle: <a href='#'>人工智能科学家，产品经理，项目经理，冒险家</a>
+subtitle: <a href='#'>AI Scientist, Product Manager, Consultant, Adventurer</a>人工智能科学家，产品经理，顾问，冒险家
 
 profile:
   align: right
