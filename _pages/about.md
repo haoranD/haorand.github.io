@@ -13,7 +13,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-<a href='#'>AI Scientist, Product Manager, Consultant, R&D</a> <br> 人工智能科学家，科研爱好者，产学研，多模态AI产品孵化落地，项目管理 <br>
+<a href='#'>AI Scientist, Product Manager, Consultant, R&D</a> <br> 人工智能科学家，科研爱好者，产学研，AI产品孵化落地，项目管理 <br>
 UK, China, Singapore 中国, 英国, 新加坡 <br>
 Collaborations or chats, feel free to reach out anytime. 欢迎随时联系<br>
 haoranduan28 [at] gmail.com, haoran.duan [at] {durham.ac.uk; ncl.ac.uk}<br>
