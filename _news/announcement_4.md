@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper is accepted by the International Journal of Computer Vision.
+A paper is accepted by the International Journal of Computer Vision
