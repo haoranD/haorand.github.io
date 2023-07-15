@@ -2,7 +2,12 @@
 layout: about
 title: DHR
 permalink: /
-subtitle: <a href='#'>AI Scientist, Product Manager, Consultant, Adventurer</a> <br> 人工智能科学家，AI落地产品孵化，项目管理，冒险家
+subtitle: <a href='#'>AI Scientist, Product Manager, Consultant, Adventurer</a> <br> 人工智能科学家，AI落地产品孵化，项目管理，冒险家 
+
+Senior Researcher, Microsoft Research Asia<br>
+Building 2, No. 5 Danling Street, Haidian District, Beijing, China<br>
+jindongwang [at] outlook.com, jindong.wang [at] microsoft.com<br>
+[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ) | [DBLP](https://dblp.org/pid/19/2969-1.html) | [Github](https://github.com/jindongwang) || [Twitter](https://twitter.com/jd92wang) | [Zhihu](https://www.zhihu.com/people/jindongwang) | [Wechat](http://jd92.wang/assets/img/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv) [CV (Chinese)](https://go.jd92.wang/cvchinese)
 
 profile:
   align: left
