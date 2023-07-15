@@ -1,8 +1,17 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-02
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+A paper is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+---
+layout: post
+date: 2023-05
+inline: true
+related_posts: false
+---
+
+A paper is accepted by the International Journal of Computer Vision.
