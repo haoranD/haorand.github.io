@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 UK, China, Singapore <br>
 Collaborations or chats, feel free to reach out anytime. 合作或交谈，欢迎随时联系<br>
 haoranduan28 [at] gmail.com, haoran.duan [at] {durham.ac.uk; ncl.ac.uk}<br>
-[Google scholar](https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en) | [Github](https://github.com/haoranD) | [Wechat](https://github.com/haoranD/haorand.github.io/blob/master/assets/img/DHR_wechat.JPG)| [Linkedin](https://www.linkedin.com/in/haoran-d-b42665146/)
+[Google scholar](https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en) | [Github](https://github.com/haoranD) | [Wechat](https://github.com/haoranD/haorand.github.io/blob/master/assets/img/DHR_wechat.JPG) | [Linkedin](https://www.linkedin.com/in/haoran-d-b42665146/)
 
 He is a third-year Ph.D. student at the VIViD Laboratory of Durham University in the UK, and his supervisor is Professor Long Yang. His main research direction is the theory and application of deep learning, with the most important being its application in computer vision. He currently has about 20 scientific research papers as the first author and co-author, including papers published in IEEE TPAMI, IJCV, IEEE TIP, IEEE TCSVT. At the same time, he is also a research assistant at Newcastle University in the UK, mainly designing different intelligent algorithms with Professor Rajiv Ranjan for edge computing, IoT, and distributed cloud computing scenarios.
 
