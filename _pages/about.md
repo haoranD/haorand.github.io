@@ -15,9 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<a href='#'>AI Scientist, Product Manager, Consultant, Adventurer</a> <br> 人工智能科学家，AI落地产品孵化，项目管理，冒险家 <br>
-UK, China, Singapore <br>
-Collaborations or chats, feel free to reach out anytime. 合作或交谈，欢迎随时联系<br>
+<a href='#'>AI Scientist, Product Manager, Consultant, Adventurer</a> <br> 人工智能科学家，科研爱好者，多模态AI产品孵化落地，项目管理 <br>
+UK, China, Singapore 中国, 英国, 新加坡 <br>
+Collaborations or chats, feel free to reach out anytime. 欢迎随时联系<br>
 haoranduan28 [at] gmail.com, haoran.duan [at] {durham.ac.uk; ncl.ac.uk}<br>
 [Google scholar](https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en) | [Github](https://github.com/haoranD) | [Wechat](https://github.com/haoranD/haorand.github.io/blob/master/assets/img/DHR_wechat.JPG) | [Linkedin](https://www.linkedin.com/in/haoran-d-b42665146/)
 
