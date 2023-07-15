@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper is accepted by the IEEE Transactions on Image Processing.
+A paper has been accepted by the IEEE Transactions on Image Processing.
