@@ -2,7 +2,7 @@
 layout: about
 title: DHR
 permalink: /
-subtitle: <a href='#'>AI Scientist, Product Manager, Consultant, Adventurer</a> <br> 人工智能科学家，AI落地产品孵化，项目管理，冒险家 
+description: 
 
 profile:
   align: left
@@ -15,10 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Senior Researcher, Microsoft Research Asia<br>
-Building 2, No. 5 Danling Street, Haidian District, Beijing, China<br>
-jindongwang [at] outlook.com, jindong.wang [at] microsoft.com<br>
-[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ) | [DBLP](https://dblp.org/pid/19/2969-1.html) | [Github](https://github.com/jindongwang) || [Twitter](https://twitter.com/jd92wang) | [Zhihu](https://www.zhihu.com/people/jindongwang) | [Wechat](http://jd92.wang/assets/img/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv) [CV (Chinese)](https://go.jd92.wang/cvchinese)
+<a href='#'>AI Scientist, Product Manager, Consultant, Adventurer</a> <br> 人工智能科学家，AI落地产品孵化，项目管理，冒险家 <br>
+UK and China<br>
+haoranduan28 [at] gmail.com, haoran.duan [at] durham.ac.uk, haoran.duan [at] ncl.ac.uk<br>
+[Google scholar](https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en) | [Github](https://github.com/haoranD) | [Wechat](DHR_wechat.jpg)
 
 He is a third-year Ph.D. student at the VIViD Laboratory of Durham University in the UK, and his supervisor is Professor Long Yang. His main research direction is the theory and application of deep learning, with the most important being its application in computer vision. He currently has about 20 scientific research papers as the first author and co-author, including papers published in IEEE TPAMI, IJCV, IEEE TIP, IEEE TCSVT. At the same time, he is also a research assistant at Newcastle University in the UK, mainly designing different intelligent algorithms with Professor Rajiv Ranjan for edge computing, IoT, and distributed cloud computing scenarios.
 
